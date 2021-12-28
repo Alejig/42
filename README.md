@@ -1,2 +1,2 @@
 # 42
-Projects i worked on at 42 Paris
+Projects i did alone and with coworkers at 42 Paris
